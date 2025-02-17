@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Marzana</h1>
-<p>Aspiring Software Engineer.</p>
+<p> An Aspiring Software Engineer. After an 8 year career within Hospitality Sales, I am embarking on a career change into Tech.
+  I'm currently completing a Software Engineering bootcamp by HyperionDev, estimated graduation in May 25'.
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
