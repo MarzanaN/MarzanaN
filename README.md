@@ -1,5 +1,5 @@
 # 💫 About Me:
-Career change - Aspiring Software Engineer.
+Aspiring Software Engineer.
 
 
 ## 🌐 Socials:
