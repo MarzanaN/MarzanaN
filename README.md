@@ -5,7 +5,7 @@ Full-Stack Software Engineer
 ----------------------------
 
 Specializing in backend and mobile app development with Python, Django, JavaScript, and React Native. I'm currently developing full-stack applications like Peckish, a food-focused social app, and APT Notes, an AI-powered note-taking tool.
-Building a strong expertise in API development, database management, and mobile app developmentWith 8 years of experience in B2B corporate sales, I bring strong communication and problem-solving skills to effectively collaborate with clients and stakeholders.
+Building a strong expertise in API development, database management, and mobile app development. With 8 years of experience in B2B corporate sales, I bring strong communication and problem-solving skills to effectively collaborate with clients and stakeholders.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [m.nahar@live.co.uk](mailto:m.nahar@live.co.uk)
