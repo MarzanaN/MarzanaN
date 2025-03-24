@@ -10,7 +10,7 @@ Building a strong expertise in API development, database management, and mobile 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [m.nahar@live.co.uk](mailto:m.nahar@live.co.uk)
 * 🚀  I'm currently working on [Peckish App](http://github.com/MarzanaN/Peckish-App)
-* 🧠  I'm learning: React Native, Django, Django REST Framework, Postman, Cloudinary, AWS, Firebase, Docker, PostgreSQL
+* 🧠  I'm currently learning: React Native, Django, Django REST Framework, Postman, Cloudinary, AWS, Firebase, Docker, PostgreSQL
 * Checkout my portfolio: https://marzananahar.co.uk/
 
 ### Skills
